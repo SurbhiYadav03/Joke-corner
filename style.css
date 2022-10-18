@@ -1,0 +1,39 @@
+body
+{
+    background-color: rgb(210, 218, 122);
+}
+.container
+{
+    border:5px solid black;
+    border-radius: 40px;
+    width:700px;
+    margin:auto;
+    padding:30px;
+    margin-top: 120px;
+    text-align: center;
+    background-color: rgb(79, 79, 210);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    font-weight:500;
+}
+h3{
+    color:white;
+}
+
+#jokeBtn
+{
+   cursor:pointer;
+   color:white;
+   background: red;
+   margin:20px;
+   padding:5px;
+   width:50px;
+   font-weight:bold;
+}
+#joke{
+    padding-top:50px;
+    width:500x;
+    height:120px;
+    border:2px solid yellow;
+    border-radius: 30%;
+}
